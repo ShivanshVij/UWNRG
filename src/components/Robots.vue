@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div class="robots">
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
     <ul>
@@ -85,10 +85,10 @@
 
 <script>
 export default {
-  name: 'Home',
+  name: 'Robots',
   data () {
     return {
-      msg: 'Home'
+      msg: 'Robots'
     }
   }
 }
