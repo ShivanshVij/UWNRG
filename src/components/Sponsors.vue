@@ -88,7 +88,7 @@ export default {
   name: 'Sponsors',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'Sponsors'
     }
   }
 }

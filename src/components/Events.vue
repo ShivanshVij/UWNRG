@@ -88,7 +88,7 @@ export default {
   name: 'Events',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'Events'
     }
   }
 }
